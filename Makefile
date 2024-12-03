@@ -10,7 +10,7 @@ clean:
 	rm -f *.o $(TARGETS)
 
 run: all
-	./enigma /data.csv
+	./enigma data.csv
 
 all: $(TARGETS)
 

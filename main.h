@@ -7,5 +7,7 @@
 
 #include <iostream>
 #include <cstring>
+#include <fstream>
+#include <string>
 
 #endif //MAIN_H
